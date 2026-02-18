@@ -103,9 +103,9 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
 
 ## Supported YouTube Version
 <ul>
-   <li><strong>Latest confirmed:</strong> <em>20.42.3</em></li>
-   <li><strong>Date tested:</strong> <em>Nov 5, 2025</em></li>
-   <li><strong>YouTube Plus:</strong> <em>5.2 beta 4</em></li>
+   <li><strong>Latest confirmed:</strong> <em>21.07.4</em></li>
+   <li><strong>Date tested:</strong> <em>Feb 18, 2026</em></li>
+   <li><strong>YouTube Plus:</strong> <em>5.2 beta 3</em></li>
 </ul>
 
 ## Tweak Integration Details
